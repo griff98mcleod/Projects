@@ -1,0 +1,63 @@
+/*
+ // --== CS400 File Header Information ==--
+// Name: Arjay McCandless
+// Email: mccandless2@wisc.edu
+// Team: DG
+// Role: Front End Developer 2
+// TA: Yelun
+// Lecturer: Gary Dahl
+// Notes to Grader:
+*/
+
+.circle {
+  background-color: blue;
+}
+
+.button {
+  position: absolute;
+  color: Black;
+  border-color: White;
+  width: 100px;
+  height: 80px;
+  font-size: 20px;
+  cursor: pointer;
+  left: 50%;
+  
+}
+
+.button:hover {
+  background-color: Black;
+  color: White;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 20;
+  text-align: center;
+}
+
+
+img {
+  position: absolute;
+}
+/* used to format color and location of buttons to center them on the screen. */ 
+#b1 {
+  margin-left: -250px;
+  background-color: Red;
+}
+#b2 {
+  margin-left: -150px;
+  background-color: Blue;
+}
+#b3 {
+  margin-left: -50px;
+  background-color: Green;
+}
+#b4 {
+  margin-left: 50px;
+  background-color: Yellow;
+}
+#b5 {
+  margin-left: 150px;
+  background-color: Orange;
+}
